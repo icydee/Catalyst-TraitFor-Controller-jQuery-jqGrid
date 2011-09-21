@@ -202,13 +202,33 @@ Note however that this assumes that all grid controls use the same CGI
 parameter names. If this is not so then this module cannot (as yet) work
 for you.
 
+=head1 SUPPORT
+
+You can find information at:
+
+=over 4
+
+=item * Github repository
+
+L<http://github.com/icydee/Catalyst-TraitFor-Controller-jQuery-jqGrid>
+
+=item * Search CPAN
+
+L<http://search.cpan.org/dist/Catalyst-TraitFor-Controller-jQuery-jqGrid>
+
+=back
+
+=head1 THANKS TO
+
+Pete Smith <pete@cubabit.net> for patch fixes.
+
 =head1 AUTHOR
 
-Ian Docherty pause@icydee.com
+Ian Docherty <pause@iandocherty.com>
 
 =head1 COPYRIGHT & LICENSE
 
-    Copyright (c) 2010 the aforementioned authors. All rights
+    Copyright (c) 2010-2011 the aforementioned authors. All rights
     reserved. This program is free software; you can redistribute
     it and/or modify it under the same terms as Perl itself.
 
