@@ -16,5 +16,5 @@ WriteMakefile(
     },
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM  => 'lib/Catalyst/TraitFor/Controller/jQuery/jqGrid.pm', # retrieve abstract from module
-       AUTHOR         => 'Ian Docherty <pause@icydee.com>') : ()),
+       AUTHOR         => 'Ian Docherty <pause@iandocherty.com>') : ()),
 );
